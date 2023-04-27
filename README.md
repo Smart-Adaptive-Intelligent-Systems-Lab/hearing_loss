@@ -1,3 +1,5 @@
+EEG data: https://zenodo.org/record/3618205#.Yw0CnezMLnm
+
 Terminology:
 - HI - Hearing Impaired
 - NI - Not Impaired
