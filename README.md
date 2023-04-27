@@ -1,21 +1,21 @@
 Terminology:
-HI - Hearing Impaired
-NI - Not Impaired
-Scroll Map - shows the lines from EEGs in each channel
-Spectra Map - plots topopgraphical maps of the data at specific Hz.
+- HI - Hearing Impaired
+- NI - Not Impaired
+- Scroll Map - shows the lines from EEGs in each channel
+- Spectra Map - plots topopgraphical maps of the data at specific Hz.
 
 Folders/Files:
-6.10.22Hz Folder :      Holds .jpegs of spectra maps for 6, 10 and 22Hz along with their .csv for each subject
-AllHz Folder :          Holds .jpegs of spectra maps for 2 to 25Hz along with their .csvs for each subject
-old Folder :            Holdes the Holds .jpegs of spectra maps for 6, 10 and 22Hz along with their .csv that are averaged between HI and NI subjects
-boundaries.jpeg :       .jpeg for the boundaries after finding them
-boundaries.csv :        .csv for the boundaries after finding them and converting
-allSub_evenHz_1:        result from getPercentages.py for all subjects but only even numbered Hz. _1 means each row is one subject_hz ; and the boundaries are features
-allSub_evenHz_2:        result from getPercentages.py for all subjects but only even numbered Hz. _2 means each row is one subject; and the Hz and boundaries are features
-allSub_6.10.22Hz_1:     result from getPercentages.py for all subjects but only 6,10,22 Hz. _1 means each row is one subject_hz ; and the boundaries are features
-allSub_6.10.22Hz_2:     result from getPercentages.py for all subjects but only 6,10,22 Hz. _2 means each row is one subject and the Hz and boundaries are features
-avged_6.10.22:          result from getPercentages.py for HI and NI averaged on 6, 10, and 22 Hz
-dataset2To25:           result from getPercentages.py for all subjects with 2Hz to 25 Hz. means each row is one subject_hz ; and the boundaries are features
+- 6.10.22Hz Folder :      Holds .jpegs of spectra maps for 6, 10 and 22Hz along with their .csv for each subject
+- AllHz Folder :          Holds .jpegs of spectra maps for 2 to 25Hz along with their .csvs for each subject
+- old Folder :            Holdes the Holds .jpegs of spectra maps for 6, 10 and 22Hz along with their .csv that are averaged between HI and NI subjects
+- boundaries.jpeg :       .jpeg for the boundaries after finding them
+- boundaries.csv :        .csv for the boundaries after finding them and converting
+- allSub_evenHz_1:        result from getPercentages.py for all subjects but only even numbered Hz. _1 means each row is one subject_hz ; and the boundaries are features
+- allSub_evenHz_2:        result from getPercentages.py for all subjects but only even numbered Hz. _2 means each row is one subject; and the Hz and boundaries are features
+- allSub_6.10.22Hz_1:     result from getPercentages.py for all subjects but only 6,10,22 Hz. _1 means each row is one subject_hz ; and the boundaries are features
+- allSub_6.10.22Hz_2:     result from getPercentages.py for all subjects but only 6,10,22 Hz. _2 means each row is one subject and the Hz and boundaries are features
+- avged_6.10.22:          result from getPercentages.py for HI and NI averaged on 6, 10, and 22 Hz
+- dataset2To25:           result from getPercentages.py for all subjects with 2Hz to 25 Hz. means each row is one subject_hz ; and the boundaries are features
 
 
 Scripts:
